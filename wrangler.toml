@@ -1,1 +1,7 @@
+name = "shortan-link"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
 
+[[kv_namespaces]]
+binding = "SHORT_DB"
+id = "3018c0874c8d47efa7f2b384e727caee"
